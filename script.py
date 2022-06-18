@@ -12,7 +12,7 @@ YES I AM RAVI PADMANABHAN 2.0😉:)</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : RAVI PADMANABHAN 2.0😉</b>
 
 ⭕️<b>Creater :</b> <b>രവി പത്മനാഭൻ</b>   
 
